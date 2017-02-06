@@ -1,0 +1,1384 @@
+[15:12:27] LOG START
+[15:12:27] Initialised 1280x800 window
+[15:12:27] Success: dxbase.cpp Ln 269 Create device and swap chain
+[15:12:27] Success: dxbase.cpp Ln 400 Get back buffer
+[15:12:27] Success: dxbase.cpp Ln 407 Create render target view (back buffer)
+[15:12:27] Success: dxbase.cpp Ln 434 Create depth stencil buffer
+[15:12:27] Success: dxbase.cpp Ln 459 Create depth stencil state
+[15:12:27] Success: dxbase.cpp Ln 470 Create depth stencil state
+[15:12:27] Success: dxbase.cpp Ln 484 Create depth stencil view
+[15:12:27] Success: dxbase.cpp Ln 298 Create rasteriser state (back cull)
+[15:12:27] Success: dxbase.cpp Ln 307 Create rasteriser state (front cull)
+[15:12:27] Success: dxbase.cpp Ln 316 Create rasteriser state (no cull)
+[15:12:27] Success: dxbase.cpp Ln 346 Create blender state (alpha enabled)
+[15:12:27] Success: dxbase.cpp Ln 357 Create blender state (alpha enabled)
+[15:12:27] Success: dxbase.cpp Ln 367 Create blender state (alpha disabled)
+[15:12:27] Success: shader.cpp Ln 478 Compile vertex shader
+[15:12:27] Success: shader.cpp Ln 493 Compile pixel shader
+[15:12:27] Success: shader.cpp Ln 508 Create vertex shader
+[15:12:27] Success: shader.cpp Ln 514 Create pixel shader
+[15:12:27] Success: shader.cpp Ln 538 Create input layout
+[15:12:27] Success: shader.cpp Ln 553 Create matrix buffer
+[15:12:27] Success: shader.cpp Ln 575 Create sampler
+[15:12:27] Success: shader.cpp Ln 594 Compile vertex shader
+[15:12:27] Success: shader.cpp Ln 609 Compile pixel shader
+[15:12:27] Success: shader.cpp Ln 624 Create vertex shader
+[15:12:27] Success: shader.cpp Ln 630 Create pixel shader
+[15:12:27] Success: shader.cpp Ln 662 Create input layout
+[15:12:27] Success: shader.cpp Ln 677 Create matrix buffer
+[15:12:27] Success: shader.cpp Ln 699 Create sampler
+[15:12:27] Success: shader.cpp Ln 721 Compile vertex shader
+[15:12:27] Success: shader.cpp Ln 736 Compile pixel shader
+[15:12:27] Success: shader.cpp Ln 751 Create vertex shader
+[15:12:27] Success: shader.cpp Ln 757 Create pixel shader
+[15:12:27] Success: shader.cpp Ln 789 Create input layout
+[15:12:27] Success: shader.cpp Ln 804 Create matrix buffer
+[15:12:27] Success: shader.cpp Ln 819 Create light buffer
+[15:12:27] Success: shader.cpp Ln 834 Create camera buffer
+[15:12:27] Success: shader.cpp Ln 856 Create sampler
+[15:12:27] Success: shader.cpp Ln 878 Compile vertex shader
+[15:12:27] Success: shader.cpp Ln 893 Compile pixel shader
+[15:12:27] Success: shader.cpp Ln 908 Create vertex shader
+[15:12:27] Success: shader.cpp Ln 914 Create pixel shader
+[15:12:27] Success: shader.cpp Ln 962 Create input layout
+[15:12:27] Success: shader.cpp Ln 977 Create matrix buffer
+[15:12:27] Success: shader.cpp Ln 992 Create light buffer
+[15:12:27] Success: shader.cpp Ln 1007 Create camera buffer
+[15:12:27] Success: shader.cpp Ln 1029 Create sampler
+[15:12:27] Success: shader.cpp Ln 1048 Compile vertex shader
+[15:12:27] Success: shader.cpp Ln 1063 Compile pixel shader
+[15:12:27] Success: shader.cpp Ln 1078 Create vertex shader
+[15:12:27] Success: shader.cpp Ln 1084 Create pixel shader
+[15:12:27] Success: shader.cpp Ln 1116 Create input layout
+[15:12:27] Success: shader.cpp Ln 1131 Create matrix buffer
+[15:12:27] Success: shader.cpp Ln 1146 Create time buffer
+[15:12:27] Success: shader.cpp Ln 1168 Create sampler
+[15:12:27] Success: shader.cpp Ln 1187 Compile vertex shader
+[15:12:27] Success: shader.cpp Ln 1202 Compile pixel shader
+[15:12:27] Success: shader.cpp Ln 1217 Create vertex shader
+[15:12:27] Success: shader.cpp Ln 1223 Create pixel shader
+[15:12:27] Success: shader.cpp Ln 1271 Create input layout
+[15:12:27] Success: shader.cpp Ln 1286 Create matrix buffer
+[15:12:27] Success: shader.cpp Ln 1308 Create sampler
+[15:12:27] Success: shader.cpp Ln 1327 Compile vertex shader
+[15:12:27] Success: shader.cpp Ln 1342 Compile pixel shader
+[15:12:27] Success: shader.cpp Ln 1357 Create vertex shader
+[15:12:27] Success: shader.cpp Ln 1363 Create pixel shader
+[15:12:27] Success: shader.cpp Ln 1395 Create input layout
+[15:12:27] Success: shader.cpp Ln 1410 Create matrix buffer
+[15:12:27] Success: shader.cpp Ln 1425 Create noise buffer
+[15:12:27] Success: shader.cpp Ln 1441 Create distortion buffer
+[15:12:27] Success: shader.cpp Ln 1463 Create sampler
+[15:12:27] Success: shader.cpp Ln 1485 Create sampler2
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: particlesystem.cpp Ln 407 Initialise particle texture
+[15:12:27] Success: particlesystem.cpp Ln 179 Create vertex buffer
+[15:12:27] Success: particlesystem.cpp Ln 204 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: particlesystem.cpp Ln 407 Initialise particle texture
+[15:12:27] Success: particlesystem.cpp Ln 179 Create vertex buffer
+[15:12:27] Success: particlesystem.cpp Ln 204 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 838 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 845 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 852 Initialise texture
+[15:12:27] Success: model.cpp Ln 253 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 274 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 812 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 819 Initialise texture
+[15:12:27] Success: model.cpp Ln 190 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 211 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 793 Initialise texture
+[15:12:27] Success: model.cpp Ln 190 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 211 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 838 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 845 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 852 Initialise texture
+[15:12:27] Success: model.cpp Ln 349 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 370 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 838 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 845 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 852 Initialise texture
+[15:12:27] Success: model.cpp Ln 253 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 274 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 838 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 845 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 852 Initialise texture
+[15:12:27] Success: model.cpp Ln 349 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 370 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 838 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 845 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 852 Initialise texture
+[15:12:27] Success: model.cpp Ln 253 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 274 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 838 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 845 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 852 Initialise texture
+[15:12:27] Success: model.cpp Ln 349 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 370 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 838 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 845 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 852 Initialise texture
+[15:12:27] Success: model.cpp Ln 253 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 274 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 838 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 845 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 852 Initialise texture
+[15:12:27] Success: model.cpp Ln 349 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 370 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 838 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 845 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 852 Initialise texture
+[15:12:27] Success: model.cpp Ln 253 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 274 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 838 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 845 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 852 Initialise texture
+[15:12:27] Success: model.cpp Ln 349 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 370 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 838 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 845 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 852 Initialise texture
+[15:12:27] Success: model.cpp Ln 253 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 274 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 838 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 845 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 852 Initialise texture
+[15:12:27] Success: model.cpp Ln 349 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 370 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 838 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 845 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 852 Initialise texture
+[15:12:27] Success: model.cpp Ln 253 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 274 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 838 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 845 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 852 Initialise texture
+[15:12:27] Success: model.cpp Ln 349 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 370 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 838 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 845 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 852 Initialise texture
+[15:12:27] Success: model.cpp Ln 253 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 274 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 838 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 845 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 852 Initialise texture
+[15:12:27] Success: model.cpp Ln 349 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 370 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 838 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 845 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 852 Initialise texture
+[15:12:27] Success: model.cpp Ln 253 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 274 Create index buffer
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 838 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 845 Initialise texture
+[15:12:27] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:12:27] Success: model.cpp Ln 852 Initialise texture
+[15:12:27] Success: model.cpp Ln 349 Create vertex buffer
+[15:12:27] Success: model.cpp Ln 370 Create index buffer
+[15:12:27] Application quitting
+
+
+[15:19:40] LOG START
+[15:19:40] Initialised 1280x800 window
+[15:19:40] Success: dxbase.cpp Ln 269 Create device and swap chain
+[15:19:40] Success: dxbase.cpp Ln 400 Get back buffer
+[15:19:40] Success: dxbase.cpp Ln 407 Create render target view (back buffer)
+[15:19:40] Success: dxbase.cpp Ln 434 Create depth stencil buffer
+[15:19:40] Success: dxbase.cpp Ln 459 Create depth stencil state
+[15:19:40] Success: dxbase.cpp Ln 470 Create depth stencil state
+[15:19:40] Success: dxbase.cpp Ln 484 Create depth stencil view
+[15:19:40] Success: dxbase.cpp Ln 298 Create rasteriser state (back cull)
+[15:19:40] Success: dxbase.cpp Ln 307 Create rasteriser state (front cull)
+[15:19:40] Success: dxbase.cpp Ln 316 Create rasteriser state (no cull)
+[15:19:40] Success: dxbase.cpp Ln 346 Create blender state (alpha enabled)
+[15:19:40] Success: dxbase.cpp Ln 357 Create blender state (alpha enabled)
+[15:19:40] Success: dxbase.cpp Ln 367 Create blender state (alpha disabled)
+[15:19:40] Success: shader.cpp Ln 478 Compile vertex shader
+[15:19:40] Success: shader.cpp Ln 493 Compile pixel shader
+[15:19:40] Success: shader.cpp Ln 508 Create vertex shader
+[15:19:40] Success: shader.cpp Ln 514 Create pixel shader
+[15:19:40] Success: shader.cpp Ln 538 Create input layout
+[15:19:40] Success: shader.cpp Ln 553 Create matrix buffer
+[15:19:40] Success: shader.cpp Ln 575 Create sampler
+[15:19:40] Success: shader.cpp Ln 594 Compile vertex shader
+[15:19:40] Success: shader.cpp Ln 609 Compile pixel shader
+[15:19:40] Success: shader.cpp Ln 624 Create vertex shader
+[15:19:40] Success: shader.cpp Ln 630 Create pixel shader
+[15:19:40] Success: shader.cpp Ln 662 Create input layout
+[15:19:40] Success: shader.cpp Ln 677 Create matrix buffer
+[15:19:40] Success: shader.cpp Ln 699 Create sampler
+[15:19:40] Success: shader.cpp Ln 721 Compile vertex shader
+[15:19:40] Success: shader.cpp Ln 736 Compile pixel shader
+[15:19:40] Success: shader.cpp Ln 751 Create vertex shader
+[15:19:40] Success: shader.cpp Ln 757 Create pixel shader
+[15:19:40] Success: shader.cpp Ln 789 Create input layout
+[15:19:40] Success: shader.cpp Ln 804 Create matrix buffer
+[15:19:40] Success: shader.cpp Ln 819 Create light buffer
+[15:19:40] Success: shader.cpp Ln 834 Create camera buffer
+[15:19:40] Success: shader.cpp Ln 856 Create sampler
+[15:19:40] Success: shader.cpp Ln 878 Compile vertex shader
+[15:19:40] Success: shader.cpp Ln 893 Compile pixel shader
+[15:19:40] Success: shader.cpp Ln 908 Create vertex shader
+[15:19:40] Success: shader.cpp Ln 914 Create pixel shader
+[15:19:40] Success: shader.cpp Ln 962 Create input layout
+[15:19:40] Success: shader.cpp Ln 977 Create matrix buffer
+[15:19:40] Success: shader.cpp Ln 992 Create light buffer
+[15:19:40] Success: shader.cpp Ln 1007 Create camera buffer
+[15:19:40] Success: shader.cpp Ln 1029 Create sampler
+[15:19:40] Success: shader.cpp Ln 1048 Compile vertex shader
+[15:19:40] Success: shader.cpp Ln 1063 Compile pixel shader
+[15:19:40] Success: shader.cpp Ln 1078 Create vertex shader
+[15:19:40] Success: shader.cpp Ln 1084 Create pixel shader
+[15:19:40] Success: shader.cpp Ln 1116 Create input layout
+[15:19:40] Success: shader.cpp Ln 1131 Create matrix buffer
+[15:19:40] Success: shader.cpp Ln 1146 Create time buffer
+[15:19:40] Success: shader.cpp Ln 1168 Create sampler
+[15:19:40] Success: shader.cpp Ln 1187 Compile vertex shader
+[15:19:40] Success: shader.cpp Ln 1202 Compile pixel shader
+[15:19:40] Success: shader.cpp Ln 1217 Create vertex shader
+[15:19:40] Success: shader.cpp Ln 1223 Create pixel shader
+[15:19:40] Success: shader.cpp Ln 1271 Create input layout
+[15:19:40] Success: shader.cpp Ln 1286 Create matrix buffer
+[15:19:40] Success: shader.cpp Ln 1308 Create sampler
+[15:19:40] Success: shader.cpp Ln 1327 Compile vertex shader
+[15:19:40] Success: shader.cpp Ln 1342 Compile pixel shader
+[15:19:40] Success: shader.cpp Ln 1357 Create vertex shader
+[15:19:40] Success: shader.cpp Ln 1363 Create pixel shader
+[15:19:40] Success: shader.cpp Ln 1395 Create input layout
+[15:19:40] Success: shader.cpp Ln 1410 Create matrix buffer
+[15:19:40] Success: shader.cpp Ln 1425 Create noise buffer
+[15:19:40] Success: shader.cpp Ln 1441 Create distortion buffer
+[15:19:40] Success: shader.cpp Ln 1463 Create sampler
+[15:19:40] Success: shader.cpp Ln 1485 Create sampler2
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: particlesystem.cpp Ln 407 Initialise particle texture
+[15:19:40] Success: particlesystem.cpp Ln 179 Create vertex buffer
+[15:19:40] Success: particlesystem.cpp Ln 204 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: particlesystem.cpp Ln 407 Initialise particle texture
+[15:19:40] Success: particlesystem.cpp Ln 179 Create vertex buffer
+[15:19:40] Success: particlesystem.cpp Ln 204 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 838 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 845 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 852 Initialise texture
+[15:19:40] Success: model.cpp Ln 253 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 274 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 812 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 819 Initialise texture
+[15:19:40] Success: model.cpp Ln 190 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 211 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 793 Initialise texture
+[15:19:40] Success: model.cpp Ln 190 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 211 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 838 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 845 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 852 Initialise texture
+[15:19:40] Success: model.cpp Ln 349 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 370 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 838 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 845 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 852 Initialise texture
+[15:19:40] Success: model.cpp Ln 253 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 274 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 838 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 845 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 852 Initialise texture
+[15:19:40] Success: model.cpp Ln 349 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 370 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 838 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 845 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 852 Initialise texture
+[15:19:40] Success: model.cpp Ln 253 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 274 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 838 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 845 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 852 Initialise texture
+[15:19:40] Success: model.cpp Ln 349 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 370 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 838 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 845 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 852 Initialise texture
+[15:19:40] Success: model.cpp Ln 253 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 274 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 838 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 845 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 852 Initialise texture
+[15:19:40] Success: model.cpp Ln 349 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 370 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 838 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 845 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 852 Initialise texture
+[15:19:40] Success: model.cpp Ln 253 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 274 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 838 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 845 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 852 Initialise texture
+[15:19:40] Success: model.cpp Ln 349 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 370 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 838 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 845 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 852 Initialise texture
+[15:19:40] Success: model.cpp Ln 253 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 274 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 838 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 845 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 852 Initialise texture
+[15:19:40] Success: model.cpp Ln 349 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 370 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 838 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 845 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 852 Initialise texture
+[15:19:40] Success: model.cpp Ln 253 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 274 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 838 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 845 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 852 Initialise texture
+[15:19:40] Success: model.cpp Ln 349 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 370 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 838 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 845 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 852 Initialise texture
+[15:19:40] Success: model.cpp Ln 253 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 274 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 838 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 845 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 852 Initialise texture
+[15:19:40] Success: model.cpp Ln 349 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 370 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 838 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 845 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 852 Initialise texture
+[15:19:40] Success: model.cpp Ln 253 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 274 Create index buffer
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 838 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 845 Initialise texture
+[15:19:40] Success: texture.cpp Ln 17 Create DDS texture from file
+[15:19:40] Success: model.cpp Ln 852 Initialise texture
+[15:19:40] Success: model.cpp Ln 349 Create vertex buffer
+[15:19:40] Success: model.cpp Ln 370 Create index buffer
+[15:19:40] Application quitting
+
+
+[16:52:45] LOG START
+[16:52:45] Initialised 1280x800 window
+[16:52:45] Success: dxbase.cpp Ln 269 Create device and swap chain
+[16:52:45] Success: dxbase.cpp Ln 400 Get back buffer
+[16:52:45] Success: dxbase.cpp Ln 407 Create render target view (back buffer)
+[16:52:45] Success: dxbase.cpp Ln 434 Create depth stencil buffer
+[16:52:45] Success: dxbase.cpp Ln 459 Create depth stencil state
+[16:52:45] Success: dxbase.cpp Ln 470 Create depth stencil state
+[16:52:45] Success: dxbase.cpp Ln 484 Create depth stencil view
+[16:52:45] Success: dxbase.cpp Ln 298 Create rasteriser state (back cull)
+[16:52:45] Success: dxbase.cpp Ln 307 Create rasteriser state (front cull)
+[16:52:45] Success: dxbase.cpp Ln 316 Create rasteriser state (no cull)
+[16:52:45] Success: dxbase.cpp Ln 346 Create blender state (alpha enabled)
+[16:52:45] Success: dxbase.cpp Ln 357 Create blender state (alpha enabled)
+[16:52:45] Success: dxbase.cpp Ln 367 Create blender state (alpha disabled)
+[16:52:45] Success: shader.cpp Ln 478 Compile vertex shader
+[16:52:45] Success: shader.cpp Ln 493 Compile pixel shader
+[16:52:45] Success: shader.cpp Ln 508 Create vertex shader
+[16:52:45] Success: shader.cpp Ln 514 Create pixel shader
+[16:52:45] Success: shader.cpp Ln 538 Create input layout
+[16:52:45] Success: shader.cpp Ln 553 Create matrix buffer
+[16:52:45] Success: shader.cpp Ln 575 Create sampler
+[16:52:45] Success: shader.cpp Ln 594 Compile vertex shader
+[16:52:45] Success: shader.cpp Ln 609 Compile pixel shader
+[16:52:45] Success: shader.cpp Ln 624 Create vertex shader
+[16:52:45] Success: shader.cpp Ln 630 Create pixel shader
+[16:52:45] Success: shader.cpp Ln 662 Create input layout
+[16:52:45] Success: shader.cpp Ln 677 Create matrix buffer
+[16:52:45] Success: shader.cpp Ln 699 Create sampler
+[16:52:45] Success: shader.cpp Ln 721 Compile vertex shader
+[16:52:45] Success: shader.cpp Ln 736 Compile pixel shader
+[16:52:45] Success: shader.cpp Ln 751 Create vertex shader
+[16:52:45] Success: shader.cpp Ln 757 Create pixel shader
+[16:52:45] Success: shader.cpp Ln 789 Create input layout
+[16:52:45] Success: shader.cpp Ln 804 Create matrix buffer
+[16:52:45] Success: shader.cpp Ln 819 Create light buffer
+[16:52:45] Success: shader.cpp Ln 834 Create camera buffer
+[16:52:45] Success: shader.cpp Ln 856 Create sampler
+[16:52:45] Success: shader.cpp Ln 878 Compile vertex shader
+[16:52:45] Success: shader.cpp Ln 893 Compile pixel shader
+[16:52:45] Success: shader.cpp Ln 908 Create vertex shader
+[16:52:45] Success: shader.cpp Ln 914 Create pixel shader
+[16:52:45] Success: shader.cpp Ln 962 Create input layout
+[16:52:45] Success: shader.cpp Ln 977 Create matrix buffer
+[16:52:45] Success: shader.cpp Ln 992 Create light buffer
+[16:52:45] Success: shader.cpp Ln 1007 Create camera buffer
+[16:52:45] Success: shader.cpp Ln 1029 Create sampler
+[16:52:45] Success: shader.cpp Ln 1048 Compile vertex shader
+[16:52:45] Success: shader.cpp Ln 1063 Compile pixel shader
+[16:52:45] Success: shader.cpp Ln 1078 Create vertex shader
+[16:52:45] Success: shader.cpp Ln 1084 Create pixel shader
+[16:52:45] Success: shader.cpp Ln 1116 Create input layout
+[16:52:45] Success: shader.cpp Ln 1131 Create matrix buffer
+[16:52:45] Success: shader.cpp Ln 1146 Create time buffer
+[16:52:45] Success: shader.cpp Ln 1168 Create sampler
+[16:52:45] Success: shader.cpp Ln 1187 Compile vertex shader
+[16:52:45] Success: shader.cpp Ln 1202 Compile pixel shader
+[16:52:45] Success: shader.cpp Ln 1217 Create vertex shader
+[16:52:45] Success: shader.cpp Ln 1223 Create pixel shader
+[16:52:45] Success: shader.cpp Ln 1271 Create input layout
+[16:52:45] Success: shader.cpp Ln 1286 Create matrix buffer
+[16:52:45] Success: shader.cpp Ln 1308 Create sampler
+[16:52:45] Success: shader.cpp Ln 1327 Compile vertex shader
+[16:52:45] Success: shader.cpp Ln 1342 Compile pixel shader
+[16:52:45] Success: shader.cpp Ln 1357 Create vertex shader
+[16:52:45] Success: shader.cpp Ln 1363 Create pixel shader
+[16:52:45] Success: shader.cpp Ln 1395 Create input layout
+[16:52:45] Success: shader.cpp Ln 1410 Create matrix buffer
+[16:52:45] Success: shader.cpp Ln 1425 Create noise buffer
+[16:52:45] Success: shader.cpp Ln 1441 Create distortion buffer
+[16:52:45] Success: shader.cpp Ln 1463 Create sampler
+[16:52:45] Success: shader.cpp Ln 1485 Create sampler2
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: particlesystem.cpp Ln 407 Initialise particle texture
+[16:52:45] Success: particlesystem.cpp Ln 179 Create vertex buffer
+[16:52:45] Success: particlesystem.cpp Ln 204 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: particlesystem.cpp Ln 407 Initialise particle texture
+[16:52:45] Success: particlesystem.cpp Ln 179 Create vertex buffer
+[16:52:45] Success: particlesystem.cpp Ln 204 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 838 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 845 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 852 Initialise texture
+[16:52:45] Success: model.cpp Ln 253 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 274 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 812 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 819 Initialise texture
+[16:52:45] Success: model.cpp Ln 190 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 211 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 793 Initialise texture
+[16:52:45] Success: model.cpp Ln 190 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 211 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 838 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 845 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 852 Initialise texture
+[16:52:45] Success: model.cpp Ln 349 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 370 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 838 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 845 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 852 Initialise texture
+[16:52:45] Success: model.cpp Ln 253 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 274 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 838 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 845 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 852 Initialise texture
+[16:52:45] Success: model.cpp Ln 349 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 370 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 838 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 845 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 852 Initialise texture
+[16:52:45] Success: model.cpp Ln 253 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 274 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 838 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 845 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 852 Initialise texture
+[16:52:45] Success: model.cpp Ln 349 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 370 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 838 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 845 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 852 Initialise texture
+[16:52:45] Success: model.cpp Ln 253 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 274 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 838 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 845 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 852 Initialise texture
+[16:52:45] Success: model.cpp Ln 349 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 370 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 838 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 845 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 852 Initialise texture
+[16:52:45] Success: model.cpp Ln 253 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 274 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 838 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 845 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 852 Initialise texture
+[16:52:45] Success: model.cpp Ln 349 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 370 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 838 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 845 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 852 Initialise texture
+[16:52:45] Success: model.cpp Ln 253 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 274 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 838 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 845 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 852 Initialise texture
+[16:52:45] Success: model.cpp Ln 349 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 370 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 838 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 845 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 852 Initialise texture
+[16:52:45] Success: model.cpp Ln 253 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 274 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 838 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 845 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 852 Initialise texture
+[16:52:45] Success: model.cpp Ln 349 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 370 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 838 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 845 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 852 Initialise texture
+[16:52:45] Success: model.cpp Ln 253 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 274 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 838 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 845 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 852 Initialise texture
+[16:52:45] Success: model.cpp Ln 349 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 370 Create index buffer
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 838 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 845 Initialise texture
+[16:52:45] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:52:45] Success: model.cpp Ln 852 Initialise texture
+[16:52:45] Success: model.cpp Ln 253 Create vertex buffer
+[16:52:45] Success: model.cpp Ln 274 Create index buffer
+
+
+[16:54:47] LOG START
+[16:54:47] Initialised 1280x800 window
+[16:54:47] Success: dxbase.cpp Ln 269 Create device and swap chain
+[16:54:47] Success: dxbase.cpp Ln 400 Get back buffer
+[16:54:47] Success: dxbase.cpp Ln 407 Create render target view (back buffer)
+[16:54:47] Success: dxbase.cpp Ln 434 Create depth stencil buffer
+[16:54:47] Success: dxbase.cpp Ln 459 Create depth stencil state
+[16:54:47] Success: dxbase.cpp Ln 470 Create depth stencil state
+[16:54:47] Success: dxbase.cpp Ln 484 Create depth stencil view
+[16:54:47] Success: dxbase.cpp Ln 298 Create rasteriser state (back cull)
+[16:54:47] Success: dxbase.cpp Ln 307 Create rasteriser state (front cull)
+[16:54:47] Success: dxbase.cpp Ln 316 Create rasteriser state (no cull)
+[16:54:47] Success: dxbase.cpp Ln 346 Create blender state (alpha enabled)
+[16:54:47] Success: dxbase.cpp Ln 357 Create blender state (alpha enabled)
+[16:54:47] Success: dxbase.cpp Ln 367 Create blender state (alpha disabled)
+[16:54:47] Success: shader.cpp Ln 478 Compile vertex shader
+[16:54:47] Success: shader.cpp Ln 493 Compile pixel shader
+[16:54:47] Success: shader.cpp Ln 508 Create vertex shader
+[16:54:47] Success: shader.cpp Ln 514 Create pixel shader
+[16:54:47] Success: shader.cpp Ln 538 Create input layout
+[16:54:47] Success: shader.cpp Ln 553 Create matrix buffer
+[16:54:47] Success: shader.cpp Ln 575 Create sampler
+[16:54:47] Success: shader.cpp Ln 594 Compile vertex shader
+[16:54:47] Success: shader.cpp Ln 609 Compile pixel shader
+[16:54:47] Success: shader.cpp Ln 624 Create vertex shader
+[16:54:47] Success: shader.cpp Ln 630 Create pixel shader
+[16:54:47] Success: shader.cpp Ln 662 Create input layout
+[16:54:47] Success: shader.cpp Ln 677 Create matrix buffer
+[16:54:47] Success: shader.cpp Ln 699 Create sampler
+[16:54:47] Success: shader.cpp Ln 721 Compile vertex shader
+[16:54:47] Success: shader.cpp Ln 736 Compile pixel shader
+[16:54:47] Success: shader.cpp Ln 751 Create vertex shader
+[16:54:47] Success: shader.cpp Ln 757 Create pixel shader
+[16:54:47] Success: shader.cpp Ln 789 Create input layout
+[16:54:47] Success: shader.cpp Ln 804 Create matrix buffer
+[16:54:47] Success: shader.cpp Ln 819 Create light buffer
+[16:54:47] Success: shader.cpp Ln 834 Create camera buffer
+[16:54:47] Success: shader.cpp Ln 856 Create sampler
+[16:54:47] Success: shader.cpp Ln 878 Compile vertex shader
+[16:54:47] Success: shader.cpp Ln 893 Compile pixel shader
+[16:54:47] Success: shader.cpp Ln 908 Create vertex shader
+[16:54:47] Success: shader.cpp Ln 914 Create pixel shader
+[16:54:47] Success: shader.cpp Ln 962 Create input layout
+[16:54:47] Success: shader.cpp Ln 977 Create matrix buffer
+[16:54:47] Success: shader.cpp Ln 992 Create light buffer
+[16:54:47] Success: shader.cpp Ln 1007 Create camera buffer
+[16:54:47] Success: shader.cpp Ln 1029 Create sampler
+[16:54:47] Success: shader.cpp Ln 1048 Compile vertex shader
+[16:54:47] Success: shader.cpp Ln 1063 Compile pixel shader
+[16:54:47] Success: shader.cpp Ln 1078 Create vertex shader
+[16:54:47] Success: shader.cpp Ln 1084 Create pixel shader
+[16:54:47] Success: shader.cpp Ln 1116 Create input layout
+[16:54:47] Success: shader.cpp Ln 1131 Create matrix buffer
+[16:54:47] Success: shader.cpp Ln 1146 Create time buffer
+[16:54:47] Success: shader.cpp Ln 1168 Create sampler
+[16:54:47] Success: shader.cpp Ln 1187 Compile vertex shader
+[16:54:47] Success: shader.cpp Ln 1202 Compile pixel shader
+[16:54:47] Success: shader.cpp Ln 1217 Create vertex shader
+[16:54:47] Success: shader.cpp Ln 1223 Create pixel shader
+[16:54:47] Success: shader.cpp Ln 1271 Create input layout
+[16:54:47] Success: shader.cpp Ln 1286 Create matrix buffer
+[16:54:47] Success: shader.cpp Ln 1308 Create sampler
+[16:54:47] Success: shader.cpp Ln 1327 Compile vertex shader
+[16:54:47] Success: shader.cpp Ln 1342 Compile pixel shader
+[16:54:47] Success: shader.cpp Ln 1357 Create vertex shader
+[16:54:47] Success: shader.cpp Ln 1363 Create pixel shader
+[16:54:47] Success: shader.cpp Ln 1395 Create input layout
+[16:54:47] Success: shader.cpp Ln 1410 Create matrix buffer
+[16:54:47] Success: shader.cpp Ln 1425 Create noise buffer
+[16:54:47] Success: shader.cpp Ln 1441 Create distortion buffer
+[16:54:47] Success: shader.cpp Ln 1463 Create sampler
+[16:54:47] Success: shader.cpp Ln 1485 Create sampler2
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: particlesystem.cpp Ln 407 Initialise particle texture
+[16:54:47] Success: particlesystem.cpp Ln 179 Create vertex buffer
+[16:54:47] Success: particlesystem.cpp Ln 204 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: particlesystem.cpp Ln 407 Initialise particle texture
+[16:54:47] Success: particlesystem.cpp Ln 179 Create vertex buffer
+[16:54:47] Success: particlesystem.cpp Ln 204 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 838 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 845 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 852 Initialise texture
+[16:54:47] Success: model.cpp Ln 253 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 274 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 812 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 819 Initialise texture
+[16:54:47] Success: model.cpp Ln 190 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 211 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 793 Initialise texture
+[16:54:47] Success: model.cpp Ln 190 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 211 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 838 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 845 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 852 Initialise texture
+[16:54:47] Success: model.cpp Ln 349 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 370 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 838 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 845 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 852 Initialise texture
+[16:54:47] Success: model.cpp Ln 253 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 274 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 838 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 845 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 852 Initialise texture
+[16:54:47] Success: model.cpp Ln 349 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 370 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 838 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 845 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 852 Initialise texture
+[16:54:47] Success: model.cpp Ln 253 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 274 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 838 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 845 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 852 Initialise texture
+[16:54:47] Success: model.cpp Ln 349 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 370 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 838 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 845 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 852 Initialise texture
+[16:54:47] Success: model.cpp Ln 253 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 274 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 838 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 845 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 852 Initialise texture
+[16:54:47] Success: model.cpp Ln 349 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 370 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 838 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 845 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 852 Initialise texture
+[16:54:47] Success: model.cpp Ln 253 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 274 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 838 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 845 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 852 Initialise texture
+[16:54:47] Success: model.cpp Ln 349 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 370 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 838 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 845 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 852 Initialise texture
+[16:54:47] Success: model.cpp Ln 253 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 274 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 838 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 845 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 852 Initialise texture
+[16:54:47] Success: model.cpp Ln 349 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 370 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 838 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 845 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 852 Initialise texture
+[16:54:47] Success: model.cpp Ln 253 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 274 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 838 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 845 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 852 Initialise texture
+[16:54:47] Success: model.cpp Ln 349 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 370 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 838 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 845 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 852 Initialise texture
+[16:54:47] Success: model.cpp Ln 253 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 274 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 838 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 845 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 852 Initialise texture
+[16:54:47] Success: model.cpp Ln 349 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 370 Create index buffer
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 838 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 845 Initialise texture
+[16:54:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:54:47] Success: model.cpp Ln 852 Initialise texture
+[16:54:47] Success: model.cpp Ln 253 Create vertex buffer
+[16:54:47] Success: model.cpp Ln 274 Create index buffer
+
+
+[17:1:10] LOG START
+[17:1:10] Initialised 1280x800 window
+[17:1:10] Success: dxbase.cpp Ln 269 Create device and swap chain
+[17:1:10] Success: dxbase.cpp Ln 400 Get back buffer
+[17:1:10] Success: dxbase.cpp Ln 407 Create render target view (back buffer)
+[17:1:10] Success: dxbase.cpp Ln 434 Create depth stencil buffer
+[17:1:10] Success: dxbase.cpp Ln 459 Create depth stencil state
+[17:1:10] Success: dxbase.cpp Ln 470 Create depth stencil state
+[17:1:10] Success: dxbase.cpp Ln 484 Create depth stencil view
+[17:1:10] Success: dxbase.cpp Ln 298 Create rasteriser state (back cull)
+[17:1:10] Success: dxbase.cpp Ln 307 Create rasteriser state (front cull)
+[17:1:10] Success: dxbase.cpp Ln 316 Create rasteriser state (no cull)
+[17:1:10] Success: dxbase.cpp Ln 346 Create blender state (alpha enabled)
+[17:1:10] Success: dxbase.cpp Ln 357 Create blender state (alpha enabled)
+[17:1:10] Success: dxbase.cpp Ln 367 Create blender state (alpha disabled)
+[17:1:10] Success: shader.cpp Ln 478 Compile vertex shader
+[17:1:10] Success: shader.cpp Ln 493 Compile pixel shader
+[17:1:10] Success: shader.cpp Ln 508 Create vertex shader
+[17:1:10] Success: shader.cpp Ln 514 Create pixel shader
+[17:1:10] Success: shader.cpp Ln 538 Create input layout
+[17:1:10] Success: shader.cpp Ln 553 Create matrix buffer
+[17:1:10] Success: shader.cpp Ln 575 Create sampler
+[17:1:10] Success: shader.cpp Ln 594 Compile vertex shader
+[17:1:10] Success: shader.cpp Ln 609 Compile pixel shader
+[17:1:10] Success: shader.cpp Ln 624 Create vertex shader
+[17:1:10] Success: shader.cpp Ln 630 Create pixel shader
+[17:1:10] Success: shader.cpp Ln 662 Create input layout
+[17:1:10] Success: shader.cpp Ln 677 Create matrix buffer
+[17:1:10] Success: shader.cpp Ln 699 Create sampler
+[17:1:10] Success: shader.cpp Ln 721 Compile vertex shader
+[17:1:10] Success: shader.cpp Ln 736 Compile pixel shader
+[17:1:10] Success: shader.cpp Ln 751 Create vertex shader
+[17:1:10] Success: shader.cpp Ln 757 Create pixel shader
+[17:1:10] Success: shader.cpp Ln 789 Create input layout
+[17:1:10] Success: shader.cpp Ln 804 Create matrix buffer
+[17:1:10] Success: shader.cpp Ln 819 Create light buffer
+[17:1:10] Success: shader.cpp Ln 834 Create camera buffer
+[17:1:10] Success: shader.cpp Ln 856 Create sampler
+[17:1:10] Success: shader.cpp Ln 878 Compile vertex shader
+[17:1:10] Success: shader.cpp Ln 893 Compile pixel shader
+[17:1:10] Success: shader.cpp Ln 908 Create vertex shader
+[17:1:10] Success: shader.cpp Ln 914 Create pixel shader
+[17:1:10] Success: shader.cpp Ln 962 Create input layout
+[17:1:10] Success: shader.cpp Ln 977 Create matrix buffer
+[17:1:10] Success: shader.cpp Ln 992 Create light buffer
+[17:1:10] Success: shader.cpp Ln 1007 Create camera buffer
+[17:1:10] Success: shader.cpp Ln 1029 Create sampler
+[17:1:10] Success: shader.cpp Ln 1048 Compile vertex shader
+[17:1:10] Success: shader.cpp Ln 1063 Compile pixel shader
+[17:1:10] Success: shader.cpp Ln 1078 Create vertex shader
+[17:1:10] Success: shader.cpp Ln 1084 Create pixel shader
+[17:1:10] Success: shader.cpp Ln 1116 Create input layout
+[17:1:10] Success: shader.cpp Ln 1131 Create matrix buffer
+[17:1:10] Success: shader.cpp Ln 1146 Create time buffer
+[17:1:10] Success: shader.cpp Ln 1168 Create sampler
+[17:1:10] Success: shader.cpp Ln 1187 Compile vertex shader
+[17:1:10] Success: shader.cpp Ln 1202 Compile pixel shader
+[17:1:10] Success: shader.cpp Ln 1217 Create vertex shader
+[17:1:10] Success: shader.cpp Ln 1223 Create pixel shader
+[17:1:10] Success: shader.cpp Ln 1271 Create input layout
+[17:1:10] Success: shader.cpp Ln 1286 Create matrix buffer
+[17:1:10] Success: shader.cpp Ln 1308 Create sampler
+[17:1:10] Success: shader.cpp Ln 1327 Compile vertex shader
+[17:1:10] Success: shader.cpp Ln 1342 Compile pixel shader
+[17:1:10] Success: shader.cpp Ln 1357 Create vertex shader
+[17:1:10] Success: shader.cpp Ln 1363 Create pixel shader
+[17:1:10] Success: shader.cpp Ln 1395 Create input layout
+[17:1:10] Success: shader.cpp Ln 1410 Create matrix buffer
+[17:1:10] Success: shader.cpp Ln 1425 Create noise buffer
+[17:1:10] Success: shader.cpp Ln 1441 Create distortion buffer
+[17:1:10] Success: shader.cpp Ln 1463 Create sampler
+[17:1:10] Success: shader.cpp Ln 1485 Create sampler2
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: particlesystem.cpp Ln 407 Initialise particle texture
+[17:1:10] Success: particlesystem.cpp Ln 179 Create vertex buffer
+[17:1:10] Success: particlesystem.cpp Ln 204 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: particlesystem.cpp Ln 407 Initialise particle texture
+[17:1:10] Success: particlesystem.cpp Ln 179 Create vertex buffer
+[17:1:10] Success: particlesystem.cpp Ln 204 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 838 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 845 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 852 Initialise texture
+[17:1:10] Success: model.cpp Ln 253 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 274 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 812 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 819 Initialise texture
+[17:1:10] Success: model.cpp Ln 190 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 211 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 793 Initialise texture
+[17:1:10] Success: model.cpp Ln 190 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 211 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 838 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 845 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 852 Initialise texture
+[17:1:10] Success: model.cpp Ln 349 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 370 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 838 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 845 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 852 Initialise texture
+[17:1:10] Success: model.cpp Ln 253 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 274 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 838 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 845 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 852 Initialise texture
+[17:1:10] Success: model.cpp Ln 349 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 370 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 838 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 845 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 852 Initialise texture
+[17:1:10] Success: model.cpp Ln 253 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 274 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 838 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 845 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 852 Initialise texture
+[17:1:10] Success: model.cpp Ln 349 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 370 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 838 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 845 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 852 Initialise texture
+[17:1:10] Success: model.cpp Ln 253 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 274 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 838 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 845 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 852 Initialise texture
+[17:1:10] Success: model.cpp Ln 349 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 370 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 838 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 845 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 852 Initialise texture
+[17:1:10] Success: model.cpp Ln 253 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 274 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 838 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 845 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 852 Initialise texture
+[17:1:10] Success: model.cpp Ln 349 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 370 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 838 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 845 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 852 Initialise texture
+[17:1:10] Success: model.cpp Ln 253 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 274 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 838 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 845 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 852 Initialise texture
+[17:1:10] Success: model.cpp Ln 349 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 370 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 838 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 845 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 852 Initialise texture
+[17:1:10] Success: model.cpp Ln 253 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 274 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 838 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 845 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 852 Initialise texture
+[17:1:10] Success: model.cpp Ln 349 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 370 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 838 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 845 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 852 Initialise texture
+[17:1:10] Success: model.cpp Ln 253 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 274 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 838 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 845 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 852 Initialise texture
+[17:1:10] Success: model.cpp Ln 349 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 370 Create index buffer
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 838 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 845 Initialise texture
+[17:1:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:1:10] Success: model.cpp Ln 852 Initialise texture
+[17:1:10] Success: model.cpp Ln 253 Create vertex buffer
+[17:1:10] Success: model.cpp Ln 274 Create index buffer
+
+
+[17:3:47] LOG START
+[17:3:47] Initialised 1280x800 window
+[17:3:47] Success: dxbase.cpp Ln 269 Create device and swap chain
+[17:3:47] Success: dxbase.cpp Ln 400 Get back buffer
+[17:3:47] Success: dxbase.cpp Ln 407 Create render target view (back buffer)
+[17:3:47] Success: dxbase.cpp Ln 434 Create depth stencil buffer
+[17:3:47] Success: dxbase.cpp Ln 459 Create depth stencil state
+[17:3:47] Success: dxbase.cpp Ln 470 Create depth stencil state
+[17:3:47] Success: dxbase.cpp Ln 484 Create depth stencil view
+[17:3:47] Success: dxbase.cpp Ln 298 Create rasteriser state (back cull)
+[17:3:47] Success: dxbase.cpp Ln 307 Create rasteriser state (front cull)
+[17:3:47] Success: dxbase.cpp Ln 316 Create rasteriser state (no cull)
+[17:3:47] Success: dxbase.cpp Ln 346 Create blender state (alpha enabled)
+[17:3:47] Success: dxbase.cpp Ln 357 Create blender state (alpha enabled)
+[17:3:47] Success: dxbase.cpp Ln 367 Create blender state (alpha disabled)
+[17:3:47] Success: shader.cpp Ln 478 Compile vertex shader
+[17:3:47] Success: shader.cpp Ln 493 Compile pixel shader
+[17:3:47] Success: shader.cpp Ln 508 Create vertex shader
+[17:3:47] Success: shader.cpp Ln 514 Create pixel shader
+[17:3:47] Success: shader.cpp Ln 538 Create input layout
+[17:3:47] Success: shader.cpp Ln 553 Create matrix buffer
+[17:3:47] Success: shader.cpp Ln 575 Create sampler
+[17:3:47] Success: shader.cpp Ln 594 Compile vertex shader
+[17:3:47] Success: shader.cpp Ln 609 Compile pixel shader
+[17:3:47] Success: shader.cpp Ln 624 Create vertex shader
+[17:3:47] Success: shader.cpp Ln 630 Create pixel shader
+[17:3:47] Success: shader.cpp Ln 662 Create input layout
+[17:3:47] Success: shader.cpp Ln 677 Create matrix buffer
+[17:3:47] Success: shader.cpp Ln 699 Create sampler
+[17:3:47] Success: shader.cpp Ln 721 Compile vertex shader
+[17:3:47] Success: shader.cpp Ln 736 Compile pixel shader
+[17:3:47] Success: shader.cpp Ln 751 Create vertex shader
+[17:3:47] Success: shader.cpp Ln 757 Create pixel shader
+[17:3:47] Success: shader.cpp Ln 789 Create input layout
+[17:3:47] Success: shader.cpp Ln 804 Create matrix buffer
+[17:3:47] Success: shader.cpp Ln 819 Create light buffer
+[17:3:47] Success: shader.cpp Ln 834 Create camera buffer
+[17:3:47] Success: shader.cpp Ln 856 Create sampler
+[17:3:47] Success: shader.cpp Ln 878 Compile vertex shader
+[17:3:47] Success: shader.cpp Ln 893 Compile pixel shader
+[17:3:47] Success: shader.cpp Ln 908 Create vertex shader
+[17:3:47] Success: shader.cpp Ln 914 Create pixel shader
+[17:3:47] Success: shader.cpp Ln 962 Create input layout
+[17:3:47] Success: shader.cpp Ln 977 Create matrix buffer
+[17:3:47] Success: shader.cpp Ln 992 Create light buffer
+[17:3:47] Success: shader.cpp Ln 1007 Create camera buffer
+[17:3:47] Success: shader.cpp Ln 1029 Create sampler
+[17:3:47] Success: shader.cpp Ln 1048 Compile vertex shader
+[17:3:47] Success: shader.cpp Ln 1063 Compile pixel shader
+[17:3:47] Success: shader.cpp Ln 1078 Create vertex shader
+[17:3:47] Success: shader.cpp Ln 1084 Create pixel shader
+[17:3:47] Success: shader.cpp Ln 1116 Create input layout
+[17:3:47] Success: shader.cpp Ln 1131 Create matrix buffer
+[17:3:47] Success: shader.cpp Ln 1146 Create time buffer
+[17:3:47] Success: shader.cpp Ln 1168 Create sampler
+[17:3:47] Success: shader.cpp Ln 1187 Compile vertex shader
+[17:3:47] Success: shader.cpp Ln 1202 Compile pixel shader
+[17:3:47] Success: shader.cpp Ln 1217 Create vertex shader
+[17:3:47] Success: shader.cpp Ln 1223 Create pixel shader
+[17:3:47] Success: shader.cpp Ln 1271 Create input layout
+[17:3:47] Success: shader.cpp Ln 1286 Create matrix buffer
+[17:3:47] Success: shader.cpp Ln 1308 Create sampler
+[17:3:47] Success: shader.cpp Ln 1327 Compile vertex shader
+[17:3:47] Success: shader.cpp Ln 1342 Compile pixel shader
+[17:3:47] Success: shader.cpp Ln 1357 Create vertex shader
+[17:3:47] Success: shader.cpp Ln 1363 Create pixel shader
+[17:3:47] Success: shader.cpp Ln 1395 Create input layout
+[17:3:47] Success: shader.cpp Ln 1410 Create matrix buffer
+[17:3:47] Success: shader.cpp Ln 1425 Create noise buffer
+[17:3:47] Success: shader.cpp Ln 1441 Create distortion buffer
+[17:3:47] Success: shader.cpp Ln 1463 Create sampler
+[17:3:47] Success: shader.cpp Ln 1485 Create sampler2
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: particlesystem.cpp Ln 407 Initialise particle texture
+[17:3:47] Success: particlesystem.cpp Ln 179 Create vertex buffer
+[17:3:47] Success: particlesystem.cpp Ln 204 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: particlesystem.cpp Ln 407 Initialise particle texture
+[17:3:47] Success: particlesystem.cpp Ln 179 Create vertex buffer
+[17:3:47] Success: particlesystem.cpp Ln 204 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 838 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 845 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 852 Initialise texture
+[17:3:47] Success: model.cpp Ln 253 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 274 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 812 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 819 Initialise texture
+[17:3:47] Success: model.cpp Ln 190 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 211 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 793 Initialise texture
+[17:3:47] Success: model.cpp Ln 190 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 211 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 838 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 845 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 852 Initialise texture
+[17:3:47] Success: model.cpp Ln 349 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 370 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 838 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 845 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 852 Initialise texture
+[17:3:47] Success: model.cpp Ln 253 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 274 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 838 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 845 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 852 Initialise texture
+[17:3:47] Success: model.cpp Ln 349 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 370 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 838 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 845 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 852 Initialise texture
+[17:3:47] Success: model.cpp Ln 253 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 274 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 838 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 845 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 852 Initialise texture
+[17:3:47] Success: model.cpp Ln 349 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 370 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 838 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 845 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 852 Initialise texture
+[17:3:47] Success: model.cpp Ln 253 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 274 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 838 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 845 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 852 Initialise texture
+[17:3:47] Success: model.cpp Ln 349 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 370 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 838 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 845 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 852 Initialise texture
+[17:3:47] Success: model.cpp Ln 253 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 274 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 838 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 845 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 852 Initialise texture
+[17:3:47] Success: model.cpp Ln 349 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 370 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 838 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 845 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 852 Initialise texture
+[17:3:47] Success: model.cpp Ln 253 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 274 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 838 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 845 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 852 Initialise texture
+[17:3:47] Success: model.cpp Ln 349 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 370 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 838 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 845 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 852 Initialise texture
+[17:3:47] Success: model.cpp Ln 253 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 274 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 838 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 845 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 852 Initialise texture
+[17:3:47] Success: model.cpp Ln 349 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 370 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 838 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 845 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 852 Initialise texture
+[17:3:47] Success: model.cpp Ln 253 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 274 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 838 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 845 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 852 Initialise texture
+[17:3:47] Success: model.cpp Ln 349 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 370 Create index buffer
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 838 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 845 Initialise texture
+[17:3:47] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:3:47] Success: model.cpp Ln 852 Initialise texture
+[17:3:47] Success: model.cpp Ln 253 Create vertex buffer
+[17:3:47] Success: model.cpp Ln 274 Create index buffer

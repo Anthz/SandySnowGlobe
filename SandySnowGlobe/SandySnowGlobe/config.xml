@@ -1,0 +1,47 @@
+<Root>
+    <Objects>
+        <Position>
+			<x>0.000000</x> <y>-19.00000</y> <z>0.000000</z>
+		</Position>
+		<Position>
+			<x>0.000000</x> <y>-40.000000</y> <z>0.000000</z>
+		</Position>
+        <Position>
+			<x>0.000000</x> <y>-8.100000</y> <z>0.000000</z>
+		</Position>
+        <Position>
+			<x>-20.000000</x> <y>-11.250000</y> <z>40.000000</z>
+		</Position>
+        <Position>
+			<x>-35.000000</x> <y>-10.250000</y> <z>10.000000</z>
+		</Position>
+        <Position>
+			<x>50.000000</x> <y>-11.500000</y> <z>-15.000000</z>
+		</Position>
+        <Position>
+			<x>55.000000</x> <y>-9.200000</y> <z>-50.000000</z>
+		</Position>
+        <Position>
+			<x>-50.000000</x> <y>-11.500000</y> <z>-53.000000</z>
+		</Position>
+        <Position>
+			<x>55.000000</x> <y>-10.500000</y> <z>48.000000</z>
+		</Position>
+        <Position>
+			<x>10.000000</x> <y>-11.200000</y> <z>-55.000000</z>
+		</Position>
+    </Objects>
+    <Sun>
+        <Direction>
+			<x>0.000000</x> <y>1.000000</y> <z>1.000000</z>
+		</Direction>
+    </Sun>
+    <Moon>
+        <Direction>
+			<x>0.000000</x> <y>-1.000000</y> <z>-1.000000</z>
+		</Direction>
+    </Moon>
+    <Seasons>
+        <Length>5</Length>
+    </Seasons>
+</Root>

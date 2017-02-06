@@ -1,0 +1,31 @@
+cbuffer SkyDomeBuffer
+{
+	float4 skyColour;
+	float4 horizonColour;
+};
+
+struct PixelInputType
+{
+	float4 position : SV_POSITION;
+	float2 texCoord : TEXCOORD0;
+	float3 normal : NORMAL;
+	float4 domePosition : TEXCOORD1;
+};
+
+float4 ps_main(PixelInputType input) : SV_TARGET
+{
+	float4 colour;
+
+	//assumes position is at 0,0,0 so range is from -radius to radius
+	float height = input.domePosition.y / 100.0f; //100 = domeRadius, buffer failed when passing through radius
+
+	if(height < 0.0f)
+	{
+		height = 0.0f;	//clamp to horizon
+	}
+
+	colour = lerp(horizonColour, skyColour, height);
+	colour.w = 0.5f;
+
+	return colour;
+}

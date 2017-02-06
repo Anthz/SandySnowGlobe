@@ -1,0 +1,617 @@
+[16:10:16] LOG START
+[16:10:16] Initialised 1280x800 window
+[16:10:16] Success: dxbase.cpp Ln 211 Create device and swap chain
+[16:10:16] Success: dxbase.cpp Ln 273 Get back buffer
+[16:10:16] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[16:10:16] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[16:10:16] Success: dxbase.cpp Ln 332 Create depth stencil state
+[16:10:16] Success: dxbase.cpp Ln 348 Create depth stencil view
+[16:10:16] Success: dxbase.cpp Ln 240 Create rasteriser state
+[16:10:16] Success: shader.cpp Ln 32 Compile vertex shader
+[16:10:16] Success: shader.cpp Ln 45 Compile pixel shader
+[16:10:16] Success: shader.cpp Ln 58 Create vertex shader
+[16:10:16] Success: shader.cpp Ln 64 Create pixel shader
+[16:10:16] Success: shader.cpp Ln 96 Create input layout
+[16:10:16] Success: shader.cpp Ln 109 Create matrix buffer
+[16:10:16] Success: shader.cpp Ln 129 Create sampler
+[16:10:16] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:10:16] Success: model.cpp Ln 296 Initialise texture
+[16:10:16] Application quitting
+
+
+[16:10:38] LOG START
+[16:10:38] Initialised 1280x800 window
+[16:10:38] Success: dxbase.cpp Ln 211 Create device and swap chain
+[16:10:38] Success: dxbase.cpp Ln 273 Get back buffer
+[16:10:38] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[16:10:38] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[16:10:38] Success: dxbase.cpp Ln 332 Create depth stencil state
+[16:10:38] Success: dxbase.cpp Ln 348 Create depth stencil view
+[16:10:38] Success: dxbase.cpp Ln 240 Create rasteriser state
+[16:10:38] Success: shader.cpp Ln 32 Compile vertex shader
+[16:10:38] Success: shader.cpp Ln 45 Compile pixel shader
+[16:10:38] Success: shader.cpp Ln 58 Create vertex shader
+[16:10:38] Success: shader.cpp Ln 64 Create pixel shader
+[16:10:38] Success: shader.cpp Ln 96 Create input layout
+[16:10:38] Success: shader.cpp Ln 109 Create matrix buffer
+[16:10:38] Success: shader.cpp Ln 129 Create sampler
+[16:10:38] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:10:38] Success: model.cpp Ln 296 Initialise texture
+[16:10:38] Success: model.cpp Ln 65 Create vertex buffer
+[16:10:38] Success: model.cpp Ln 83 Create index buffer
+
+
+[16:15:16] LOG START
+[16:15:16] Initialised 1280x800 window
+[16:15:16] Success: dxbase.cpp Ln 211 Create device and swap chain
+[16:15:16] Success: dxbase.cpp Ln 273 Get back buffer
+[16:15:16] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[16:15:16] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[16:15:16] Success: dxbase.cpp Ln 332 Create depth stencil state
+[16:15:16] Success: dxbase.cpp Ln 348 Create depth stencil view
+[16:15:16] Success: dxbase.cpp Ln 240 Create rasteriser state
+[16:15:16] Success: shader.cpp Ln 32 Compile vertex shader
+[16:15:16] Success: shader.cpp Ln 45 Compile pixel shader
+[16:15:16] Success: shader.cpp Ln 58 Create vertex shader
+[16:15:16] Success: shader.cpp Ln 64 Create pixel shader
+[16:15:16] Success: shader.cpp Ln 96 Create input layout
+[16:15:16] Success: shader.cpp Ln 109 Create matrix buffer
+[16:15:16] Success: shader.cpp Ln 129 Create sampler
+[16:15:16] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:15:16] Success: model.cpp Ln 296 Initialise texture
+[16:15:16] Success: model.cpp Ln 65 Create vertex buffer
+[16:15:16] Success: model.cpp Ln 83 Create index buffer
+
+
+[16:55:55] LOG START
+[16:55:55] Initialised 1280x800 window
+[16:55:55] Success: dxbase.cpp Ln 211 Create device and swap chain
+[16:55:55] Success: dxbase.cpp Ln 273 Get back buffer
+[16:55:55] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[16:55:55] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[16:55:55] Success: dxbase.cpp Ln 332 Create depth stencil state
+[16:55:55] Success: dxbase.cpp Ln 348 Create depth stencil view
+[16:55:55] Success: dxbase.cpp Ln 240 Create rasteriser state
+[16:55:55] Success: shader.cpp Ln 141 Compile vertex shader
+[16:55:55] Success: shader.cpp Ln 154 Compile pixel shader
+[16:55:55] Success: shader.cpp Ln 167 Create vertex shader
+[16:55:55] Success: shader.cpp Ln 173 Create pixel shader
+[16:55:55] Failed: shader.cpp Ln 197 Create input layout
+
+
+[16:56:35] LOG START
+[16:56:35] Initialised 1280x800 window
+[16:56:35] Success: dxbase.cpp Ln 211 Create device and swap chain
+[16:56:35] Success: dxbase.cpp Ln 273 Get back buffer
+[16:56:35] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[16:56:35] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[16:56:35] Success: dxbase.cpp Ln 332 Create depth stencil state
+[16:56:35] Success: dxbase.cpp Ln 348 Create depth stencil view
+[16:56:35] Success: dxbase.cpp Ln 240 Create rasteriser state
+[16:56:35] Success: shader.cpp Ln 141 Compile vertex shader
+[16:56:35] Success: shader.cpp Ln 154 Compile pixel shader
+[16:56:35] Success: shader.cpp Ln 167 Create vertex shader
+[16:56:35] Success: shader.cpp Ln 173 Create pixel shader
+[16:56:35] Failed: shader.cpp Ln 197 Create input layout
+
+
+[16:56:49] LOG START
+[16:56:49] Initialised 1280x800 window
+[16:56:49] Success: dxbase.cpp Ln 211 Create device and swap chain
+[16:56:49] Success: dxbase.cpp Ln 273 Get back buffer
+[16:56:49] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[16:56:49] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[16:56:49] Success: dxbase.cpp Ln 332 Create depth stencil state
+[16:56:49] Success: dxbase.cpp Ln 348 Create depth stencil view
+[16:56:49] Success: dxbase.cpp Ln 240 Create rasteriser state
+[16:56:49] Success: shader.cpp Ln 141 Compile vertex shader
+[16:56:49] Success: shader.cpp Ln 154 Compile pixel shader
+[16:56:49] Success: shader.cpp Ln 167 Create vertex shader
+[16:56:49] Success: shader.cpp Ln 173 Create pixel shader
+[16:56:49] Failed: shader.cpp Ln 197 Create input layout
+
+
+[16:57:5] LOG START
+[16:57:5] Initialised 1280x800 window
+[16:57:5] Success: dxbase.cpp Ln 211 Create device and swap chain
+[16:57:5] Success: dxbase.cpp Ln 273 Get back buffer
+[16:57:5] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[16:57:5] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[16:57:5] Success: dxbase.cpp Ln 332 Create depth stencil state
+[16:57:5] Success: dxbase.cpp Ln 348 Create depth stencil view
+[16:57:5] Success: dxbase.cpp Ln 240 Create rasteriser state
+
+
+[16:57:46] LOG START
+[16:57:46] Initialised 1280x800 window
+[16:57:46] Success: dxbase.cpp Ln 211 Create device and swap chain
+[16:57:46] Success: dxbase.cpp Ln 273 Get back buffer
+[16:57:46] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[16:57:46] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[16:57:46] Success: dxbase.cpp Ln 332 Create depth stencil state
+[16:57:46] Success: dxbase.cpp Ln 348 Create depth stencil view
+[16:57:46] Success: dxbase.cpp Ln 240 Create rasteriser state
+[16:57:46] Success: shader.cpp Ln 253 Compile vertex shader
+[16:57:46] Success: shader.cpp Ln 266 Compile pixel shader
+[16:57:46] Success: shader.cpp Ln 279 Create vertex shader
+[16:57:46] Success: shader.cpp Ln 285 Create pixel shader
+[16:57:46] Success: shader.cpp Ln 317 Create input layout
+[16:57:46] Success: shader.cpp Ln 330 Create matrix buffer
+[16:57:46] Success: shader.cpp Ln 350 Create sampler
+[16:57:46] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:57:46] Success: model.cpp Ln 296 Initialise texture
+[16:57:46] Success: model.cpp Ln 65 Create vertex buffer
+[16:57:46] Success: model.cpp Ln 83 Create index buffer
+
+
+[16:59:26] LOG START
+[16:59:26] Initialised 1280x800 window
+[16:59:26] Success: dxbase.cpp Ln 211 Create device and swap chain
+[16:59:26] Success: dxbase.cpp Ln 273 Get back buffer
+[16:59:26] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[16:59:26] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[16:59:26] Success: dxbase.cpp Ln 332 Create depth stencil state
+[16:59:26] Success: dxbase.cpp Ln 348 Create depth stencil view
+[16:59:26] Success: dxbase.cpp Ln 240 Create rasteriser state
+[16:59:26] Success: shader.cpp Ln 257 Compile vertex shader
+[16:59:26] Success: shader.cpp Ln 270 Compile pixel shader
+[16:59:26] Success: shader.cpp Ln 285 Create vertex shader
+[16:59:26] Success: shader.cpp Ln 291 Create pixel shader
+[16:59:26] Success: shader.cpp Ln 323 Create input layout
+[16:59:26] Success: shader.cpp Ln 336 Create matrix buffer
+[16:59:26] Success: shader.cpp Ln 356 Create sampler
+[16:59:26] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:59:26] Success: model.cpp Ln 296 Initialise texture
+[16:59:26] Success: model.cpp Ln 65 Create vertex buffer
+[16:59:26] Success: model.cpp Ln 83 Create index buffer
+
+
+[16:59:37] LOG START
+[16:59:37] Initialised 1280x800 window
+[16:59:37] Success: dxbase.cpp Ln 211 Create device and swap chain
+[16:59:37] Success: dxbase.cpp Ln 273 Get back buffer
+[16:59:37] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[16:59:37] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[16:59:37] Success: dxbase.cpp Ln 332 Create depth stencil state
+[16:59:37] Success: dxbase.cpp Ln 348 Create depth stencil view
+[16:59:37] Success: dxbase.cpp Ln 240 Create rasteriser state
+[16:59:37] Success: shader.cpp Ln 255 Compile vertex shader
+[16:59:37] Success: shader.cpp Ln 268 Compile pixel shader
+[16:59:37] Success: shader.cpp Ln 283 Create vertex shader
+[16:59:37] Success: shader.cpp Ln 289 Create pixel shader
+[16:59:37] Success: shader.cpp Ln 321 Create input layout
+[16:59:37] Success: shader.cpp Ln 334 Create matrix buffer
+[16:59:37] Success: shader.cpp Ln 354 Create sampler
+[16:59:37] Success: texture.cpp Ln 17 Create DDS texture from file
+[16:59:37] Success: model.cpp Ln 296 Initialise texture
+[16:59:37] Success: model.cpp Ln 65 Create vertex buffer
+[16:59:37] Success: model.cpp Ln 83 Create index buffer
+[16:59:37] Success: dxbase.cpp Ln 382 Get fullscreen state
+[16:59:37] Success: dxbase.cpp Ln 402 Resize buffers
+[16:59:37] Success: dxbase.cpp Ln 273 Get back buffer
+[16:59:37] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[16:59:37] Failed: dxbase.cpp Ln 307 Create depth stencil buffer
+[16:59:37] Application resized to 0x0
+[16:59:37] Success: dxbase.cpp Ln 382 Get fullscreen state
+[16:59:37] Success: dxbase.cpp Ln 402 Resize buffers
+[16:59:37] Success: dxbase.cpp Ln 273 Get back buffer
+[16:59:37] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[16:59:37] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[16:59:37] Success: dxbase.cpp Ln 332 Create depth stencil state
+[16:59:37] Success: dxbase.cpp Ln 348 Create depth stencil view
+[16:59:37] Application resized to 1264x762
+
+
+[17:2:38] LOG START
+[17:2:38] Initialised 1280x800 window
+[17:2:38] Success: dxbase.cpp Ln 211 Create device and swap chain
+[17:2:38] Success: dxbase.cpp Ln 273 Get back buffer
+[17:2:38] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[17:2:38] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[17:2:38] Success: dxbase.cpp Ln 332 Create depth stencil state
+[17:2:38] Success: dxbase.cpp Ln 348 Create depth stencil view
+[17:2:38] Success: dxbase.cpp Ln 240 Create rasteriser state
+[17:2:38] Success: shader.cpp Ln 255 Compile vertex shader
+[17:2:38] Success: shader.cpp Ln 268 Compile pixel shader
+[17:2:38] Success: shader.cpp Ln 283 Create vertex shader
+[17:2:38] Success: shader.cpp Ln 289 Create pixel shader
+[17:2:38] Success: shader.cpp Ln 321 Create input layout
+[17:2:38] Success: shader.cpp Ln 334 Create matrix buffer
+[17:2:38] Success: shader.cpp Ln 354 Create sampler
+[17:2:38] Success: texture.cpp Ln 17 Create DDS texture from file
+[17:2:38] Success: model.cpp Ln 296 Initialise texture
+[17:2:38] Success: model.cpp Ln 65 Create vertex buffer
+[17:2:38] Success: model.cpp Ln 83 Create index buffer
+[17:2:38] Success: dxbase.cpp Ln 382 Get fullscreen state
+[17:2:38] Success: dxbase.cpp Ln 402 Resize buffers
+[17:2:38] Success: dxbase.cpp Ln 273 Get back buffer
+[17:2:38] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[17:2:38] Failed: dxbase.cpp Ln 307 Create depth stencil buffer
+[17:2:38] Application resized to 0x0
+[17:2:38] Success: dxbase.cpp Ln 382 Get fullscreen state
+[17:2:38] Success: dxbase.cpp Ln 402 Resize buffers
+[17:2:38] Success: dxbase.cpp Ln 273 Get back buffer
+[17:2:38] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[17:2:38] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[17:2:38] Success: dxbase.cpp Ln 332 Create depth stencil state
+[17:2:38] Success: dxbase.cpp Ln 348 Create depth stencil view
+[17:2:38] Application resized to 1264x762
+
+
+[18:0:56] LOG START
+[18:0:56] Initialised 1280x800 window
+[18:0:56] Success: dxbase.cpp Ln 211 Create device and swap chain
+[18:0:56] Success: dxbase.cpp Ln 273 Get back buffer
+[18:0:56] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[18:0:56] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[18:0:56] Success: dxbase.cpp Ln 332 Create depth stencil state
+[18:0:56] Success: dxbase.cpp Ln 348 Create depth stencil view
+[18:0:56] Success: dxbase.cpp Ln 240 Create rasteriser state
+[18:0:56] Failed: shader.cpp Ln 142 Compile vertex shader
+[18:0:56] C:\Users\Anth\Documents\GitHub\08960-1\SandySnowGlobe\Colour.vs(14,1-6): error X3000: syntax error: unexpected token 'struct'
+ 
+
+
+[18:2:49] LOG START
+[18:2:49] Initialised 1280x800 window
+[18:2:49] Success: dxbase.cpp Ln 211 Create device and swap chain
+[18:2:49] Success: dxbase.cpp Ln 273 Get back buffer
+[18:2:49] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[18:2:49] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[18:2:49] Success: dxbase.cpp Ln 332 Create depth stencil state
+[18:2:49] Success: dxbase.cpp Ln 348 Create depth stencil view
+[18:2:49] Success: dxbase.cpp Ln 240 Create rasteriser state
+[18:2:49] Success: shader.cpp Ln 142 Compile vertex shader
+[18:2:49] Success: shader.cpp Ln 155 Compile pixel shader
+[18:2:49] Success: shader.cpp Ln 170 Create vertex shader
+[18:2:49] Success: shader.cpp Ln 176 Create pixel shader
+[18:2:49] Success: shader.cpp Ln 200 Create input layout
+[18:2:49] Success: shader.cpp Ln 213 Create matrix buffer
+[18:2:49] Success: shader.cpp Ln 233 Create sampler
+[18:2:49] Success: shader.cpp Ln 255 Compile vertex shader
+[18:2:49] Success: shader.cpp Ln 268 Compile pixel shader
+[18:2:49] Success: shader.cpp Ln 283 Create vertex shader
+[18:2:49] Success: shader.cpp Ln 289 Create pixel shader
+[18:2:49] Success: shader.cpp Ln 321 Create input layout
+[18:2:49] Success: shader.cpp Ln 334 Create matrix buffer
+[18:2:49] Success: shader.cpp Ln 354 Create sampler
+[18:2:49] Failed: shader.cpp Ln 378 Compile vertex shader
+[18:2:49] C:\Users\Anth\Documents\GitHub\08960-1\SandySnowGlobe\Diffuse.vs(32,2-6): error X3004: undeclared identifier 'ouput'
+ 
+
+
+[18:3:29] LOG START
+[18:3:29] Initialised 1280x800 window
+[18:3:29] Success: dxbase.cpp Ln 211 Create device and swap chain
+[18:3:29] Success: dxbase.cpp Ln 273 Get back buffer
+[18:3:29] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[18:3:29] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[18:3:29] Success: dxbase.cpp Ln 332 Create depth stencil state
+[18:3:29] Success: dxbase.cpp Ln 348 Create depth stencil view
+[18:3:29] Success: dxbase.cpp Ln 240 Create rasteriser state
+[18:3:29] Success: shader.cpp Ln 142 Compile vertex shader
+[18:3:29] Success: shader.cpp Ln 155 Compile pixel shader
+[18:3:29] Success: shader.cpp Ln 170 Create vertex shader
+[18:3:29] Success: shader.cpp Ln 176 Create pixel shader
+[18:3:29] Success: shader.cpp Ln 200 Create input layout
+[18:3:29] Success: shader.cpp Ln 213 Create matrix buffer
+[18:3:29] Success: shader.cpp Ln 233 Create sampler
+[18:3:29] Success: shader.cpp Ln 255 Compile vertex shader
+[18:3:29] Success: shader.cpp Ln 268 Compile pixel shader
+[18:3:29] Success: shader.cpp Ln 283 Create vertex shader
+[18:3:29] Success: shader.cpp Ln 289 Create pixel shader
+[18:3:29] Success: shader.cpp Ln 321 Create input layout
+[18:3:29] Success: shader.cpp Ln 334 Create matrix buffer
+[18:3:29] Success: shader.cpp Ln 354 Create sampler
+[18:3:29] Success: shader.cpp Ln 378 Compile vertex shader
+[18:3:29] Success: shader.cpp Ln 391 Compile pixel shader
+[18:3:29] Success: shader.cpp Ln 406 Create vertex shader
+[18:3:29] Success: shader.cpp Ln 412 Create pixel shader
+[18:3:29] Success: shader.cpp Ln 444 Create input layout
+[18:3:29] Success: shader.cpp Ln 457 Create matrix buffer
+[18:3:29] Failed: shader.cpp Ln 470 Create light buffer
+
+
+[18:4:0] LOG START
+[18:4:0] Initialised 1280x800 window
+[18:4:0] Success: dxbase.cpp Ln 211 Create device and swap chain
+[18:4:0] Success: dxbase.cpp Ln 273 Get back buffer
+[18:4:0] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[18:4:0] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[18:4:0] Success: dxbase.cpp Ln 332 Create depth stencil state
+[18:4:0] Success: dxbase.cpp Ln 348 Create depth stencil view
+[18:4:0] Success: dxbase.cpp Ln 240 Create rasteriser state
+[18:4:0] Success: shader.cpp Ln 142 Compile vertex shader
+[18:4:0] Success: shader.cpp Ln 155 Compile pixel shader
+[18:4:0] Success: shader.cpp Ln 170 Create vertex shader
+[18:4:0] Success: shader.cpp Ln 176 Create pixel shader
+[18:4:0] Success: shader.cpp Ln 200 Create input layout
+[18:4:0] Success: shader.cpp Ln 213 Create matrix buffer
+[18:4:0] Success: shader.cpp Ln 233 Create sampler
+[18:4:0] Success: shader.cpp Ln 255 Compile vertex shader
+[18:4:0] Success: shader.cpp Ln 268 Compile pixel shader
+[18:4:0] Success: shader.cpp Ln 283 Create vertex shader
+[18:4:0] Success: shader.cpp Ln 289 Create pixel shader
+[18:4:0] Success: shader.cpp Ln 321 Create input layout
+[18:4:0] Success: shader.cpp Ln 334 Create matrix buffer
+[18:4:0] Success: shader.cpp Ln 354 Create sampler
+[18:4:0] Success: shader.cpp Ln 378 Compile vertex shader
+[18:4:0] Success: shader.cpp Ln 391 Compile pixel shader
+[18:4:0] Success: shader.cpp Ln 406 Create vertex shader
+[18:4:0] Success: shader.cpp Ln 412 Create pixel shader
+[18:4:0] Success: shader.cpp Ln 444 Create input layout
+[18:4:0] Success: shader.cpp Ln 457 Create matrix buffer
+[18:4:0] Failed: shader.cpp Ln 470 Create light buffer
+
+
+[18:5:36] LOG START
+[18:5:36] Initialised 1280x800 window
+[18:5:36] Success: dxbase.cpp Ln 211 Create device and swap chain
+[18:5:36] Success: dxbase.cpp Ln 273 Get back buffer
+[18:5:36] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[18:5:36] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[18:5:36] Success: dxbase.cpp Ln 332 Create depth stencil state
+[18:5:36] Success: dxbase.cpp Ln 348 Create depth stencil view
+[18:5:36] Success: dxbase.cpp Ln 240 Create rasteriser state
+[18:5:36] Success: shader.cpp Ln 142 Compile vertex shader
+[18:5:36] Success: shader.cpp Ln 155 Compile pixel shader
+[18:5:36] Success: shader.cpp Ln 170 Create vertex shader
+[18:5:36] Success: shader.cpp Ln 176 Create pixel shader
+[18:5:36] Success: shader.cpp Ln 200 Create input layout
+[18:5:36] Success: shader.cpp Ln 213 Create matrix buffer
+[18:5:36] Success: shader.cpp Ln 233 Create sampler
+[18:5:36] Success: shader.cpp Ln 255 Compile vertex shader
+[18:5:36] Success: shader.cpp Ln 268 Compile pixel shader
+[18:5:36] Success: shader.cpp Ln 283 Create vertex shader
+[18:5:36] Success: shader.cpp Ln 289 Create pixel shader
+[18:5:36] Success: shader.cpp Ln 321 Create input layout
+[18:5:36] Success: shader.cpp Ln 334 Create matrix buffer
+[18:5:36] Success: shader.cpp Ln 354 Create sampler
+[18:5:36] Success: shader.cpp Ln 378 Compile vertex shader
+[18:5:36] Success: shader.cpp Ln 391 Compile pixel shader
+[18:5:36] Success: shader.cpp Ln 406 Create vertex shader
+[18:5:36] Success: shader.cpp Ln 412 Create pixel shader
+[18:5:36] Success: shader.cpp Ln 444 Create input layout
+[18:5:36] Success: shader.cpp Ln 457 Create matrix buffer
+
+
+[18:7:35] LOG START
+[18:7:35] Initialised 1280x800 window
+[18:7:35] Success: dxbase.cpp Ln 211 Create device and swap chain
+[18:7:35] Success: dxbase.cpp Ln 273 Get back buffer
+[18:7:35] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[18:7:35] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[18:7:35] Success: dxbase.cpp Ln 332 Create depth stencil state
+[18:7:35] Success: dxbase.cpp Ln 348 Create depth stencil view
+[18:7:35] Success: dxbase.cpp Ln 240 Create rasteriser state
+[18:7:35] Success: shader.cpp Ln 142 Compile vertex shader
+[18:7:35] Success: shader.cpp Ln 155 Compile pixel shader
+[18:7:35] Success: shader.cpp Ln 170 Create vertex shader
+[18:7:35] Success: shader.cpp Ln 176 Create pixel shader
+[18:7:35] Success: shader.cpp Ln 200 Create input layout
+[18:7:35] Success: shader.cpp Ln 213 Create matrix buffer
+[18:7:35] Success: shader.cpp Ln 233 Create sampler
+[18:7:35] Success: shader.cpp Ln 255 Compile vertex shader
+[18:7:35] Success: shader.cpp Ln 268 Compile pixel shader
+[18:7:35] Success: shader.cpp Ln 283 Create vertex shader
+[18:7:35] Success: shader.cpp Ln 289 Create pixel shader
+[18:7:35] Success: shader.cpp Ln 321 Create input layout
+[18:7:35] Success: shader.cpp Ln 334 Create matrix buffer
+[18:7:35] Success: shader.cpp Ln 354 Create sampler
+[18:7:35] Success: shader.cpp Ln 378 Compile vertex shader
+[18:7:35] Success: shader.cpp Ln 391 Compile pixel shader
+[18:7:35] Success: shader.cpp Ln 406 Create vertex shader
+[18:7:35] Success: shader.cpp Ln 412 Create pixel shader
+[18:7:35] Success: shader.cpp Ln 444 Create input layout
+[18:7:35] Success: shader.cpp Ln 457 Create matrix buffer
+[18:7:35] Success: shader.cpp Ln 470 Create light buffer
+[18:7:35] Success: shader.cpp Ln 490 Create sampler
+[18:7:35] Success: texture.cpp Ln 17 Create DDS texture from file
+[18:7:35] Success: model.cpp Ln 296 Initialise texture
+[18:7:35] Success: model.cpp Ln 65 Create vertex buffer
+[18:7:35] Success: model.cpp Ln 83 Create index buffer
+[18:7:35] Success: dxbase.cpp Ln 382 Get fullscreen state
+[18:7:35] Success: dxbase.cpp Ln 402 Resize buffers
+[18:7:35] Success: dxbase.cpp Ln 273 Get back buffer
+[18:7:35] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[18:7:35] Failed: dxbase.cpp Ln 307 Create depth stencil buffer
+[18:7:35] Application resized to 0x0
+[18:7:35] Success: dxbase.cpp Ln 382 Get fullscreen state
+[18:7:35] Success: dxbase.cpp Ln 402 Resize buffers
+[18:7:35] Success: dxbase.cpp Ln 273 Get back buffer
+[18:7:35] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[18:7:35] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[18:7:35] Success: dxbase.cpp Ln 332 Create depth stencil state
+[18:7:35] Success: dxbase.cpp Ln 348 Create depth stencil view
+[18:7:35] Application resized to 1264x762
+[18:7:35] Application quitting
+
+
+[18:8:20] LOG START
+[18:8:20] Initialised 1280x800 window
+[18:8:20] Success: dxbase.cpp Ln 211 Create device and swap chain
+[18:8:20] Success: dxbase.cpp Ln 273 Get back buffer
+[18:8:20] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[18:8:20] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[18:8:20] Success: dxbase.cpp Ln 332 Create depth stencil state
+[18:8:20] Success: dxbase.cpp Ln 348 Create depth stencil view
+[18:8:20] Success: dxbase.cpp Ln 240 Create rasteriser state
+[18:8:20] Success: shader.cpp Ln 142 Compile vertex shader
+[18:8:20] Success: shader.cpp Ln 155 Compile pixel shader
+[18:8:20] Success: shader.cpp Ln 170 Create vertex shader
+[18:8:20] Success: shader.cpp Ln 176 Create pixel shader
+[18:8:20] Success: shader.cpp Ln 200 Create input layout
+[18:8:20] Success: shader.cpp Ln 213 Create matrix buffer
+[18:8:20] Success: shader.cpp Ln 233 Create sampler
+[18:8:20] Success: shader.cpp Ln 255 Compile vertex shader
+[18:8:20] Success: shader.cpp Ln 268 Compile pixel shader
+[18:8:20] Success: shader.cpp Ln 283 Create vertex shader
+[18:8:20] Success: shader.cpp Ln 289 Create pixel shader
+[18:8:20] Success: shader.cpp Ln 321 Create input layout
+[18:8:20] Success: shader.cpp Ln 334 Create matrix buffer
+[18:8:20] Success: shader.cpp Ln 354 Create sampler
+[18:8:20] Success: shader.cpp Ln 378 Compile vertex shader
+[18:8:20] Success: shader.cpp Ln 391 Compile pixel shader
+[18:8:20] Success: shader.cpp Ln 406 Create vertex shader
+[18:8:20] Success: shader.cpp Ln 412 Create pixel shader
+[18:8:20] Success: shader.cpp Ln 444 Create input layout
+[18:8:20] Success: shader.cpp Ln 457 Create matrix buffer
+[18:8:20] Success: shader.cpp Ln 470 Create light buffer
+[18:8:20] Success: shader.cpp Ln 490 Create sampler
+[18:8:20] Success: texture.cpp Ln 17 Create DDS texture from file
+[18:8:20] Success: model.cpp Ln 296 Initialise texture
+[18:8:20] Success: model.cpp Ln 65 Create vertex buffer
+[18:8:20] Success: model.cpp Ln 83 Create index buffer
+[18:8:20] Success: dxbase.cpp Ln 382 Get fullscreen state
+[18:8:20] Success: dxbase.cpp Ln 402 Resize buffers
+[18:8:20] Success: dxbase.cpp Ln 273 Get back buffer
+[18:8:20] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[18:8:20] Failed: dxbase.cpp Ln 307 Create depth stencil buffer
+[18:8:20] Application resized to 0x0
+[18:8:20] Success: dxbase.cpp Ln 382 Get fullscreen state
+[18:8:20] Success: dxbase.cpp Ln 402 Resize buffers
+[18:8:20] Success: dxbase.cpp Ln 273 Get back buffer
+[18:8:20] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[18:8:20] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[18:8:20] Success: dxbase.cpp Ln 332 Create depth stencil state
+[18:8:20] Success: dxbase.cpp Ln 348 Create depth stencil view
+[18:8:20] Application resized to 1264x762
+
+
+[18:8:33] LOG START
+[18:8:33] Initialised 1280x800 window
+[18:8:33] Success: dxbase.cpp Ln 211 Create device and swap chain
+[18:8:33] Success: dxbase.cpp Ln 273 Get back buffer
+[18:8:33] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[18:8:33] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[18:8:33] Success: dxbase.cpp Ln 332 Create depth stencil state
+[18:8:33] Success: dxbase.cpp Ln 348 Create depth stencil view
+[18:8:33] Success: dxbase.cpp Ln 240 Create rasteriser state
+[18:8:33] Success: shader.cpp Ln 142 Compile vertex shader
+[18:8:33] Success: shader.cpp Ln 155 Compile pixel shader
+[18:8:33] Success: shader.cpp Ln 170 Create vertex shader
+[18:8:33] Success: shader.cpp Ln 176 Create pixel shader
+[18:8:33] Success: shader.cpp Ln 200 Create input layout
+[18:8:33] Success: shader.cpp Ln 213 Create matrix buffer
+[18:8:33] Success: shader.cpp Ln 233 Create sampler
+[18:8:33] Success: shader.cpp Ln 255 Compile vertex shader
+[18:8:33] Success: shader.cpp Ln 268 Compile pixel shader
+[18:8:33] Success: shader.cpp Ln 283 Create vertex shader
+[18:8:33] Success: shader.cpp Ln 289 Create pixel shader
+[18:8:33] Success: shader.cpp Ln 321 Create input layout
+[18:8:33] Success: shader.cpp Ln 334 Create matrix buffer
+[18:8:33] Success: shader.cpp Ln 354 Create sampler
+[18:8:33] Success: shader.cpp Ln 378 Compile vertex shader
+[18:8:33] Success: shader.cpp Ln 391 Compile pixel shader
+[18:8:33] Success: shader.cpp Ln 406 Create vertex shader
+[18:8:33] Success: shader.cpp Ln 412 Create pixel shader
+[18:8:33] Success: shader.cpp Ln 444 Create input layout
+[18:8:33] Success: shader.cpp Ln 457 Create matrix buffer
+[18:8:33] Success: shader.cpp Ln 470 Create light buffer
+[18:8:33] Success: shader.cpp Ln 490 Create sampler
+[18:8:33] Success: texture.cpp Ln 17 Create DDS texture from file
+[18:8:33] Success: model.cpp Ln 296 Initialise texture
+[18:8:33] Success: model.cpp Ln 65 Create vertex buffer
+[18:8:33] Success: model.cpp Ln 83 Create index buffer
+[18:8:33] Success: dxbase.cpp Ln 382 Get fullscreen state
+[18:8:33] Success: dxbase.cpp Ln 402 Resize buffers
+[18:8:33] Success: dxbase.cpp Ln 273 Get back buffer
+[18:8:33] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[18:8:33] Failed: dxbase.cpp Ln 307 Create depth stencil buffer
+[18:8:33] Application resized to 0x0
+[18:8:33] Success: dxbase.cpp Ln 382 Get fullscreen state
+[18:8:33] Success: dxbase.cpp Ln 402 Resize buffers
+[18:8:33] Success: dxbase.cpp Ln 273 Get back buffer
+[18:8:33] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[18:8:33] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[18:8:33] Success: dxbase.cpp Ln 332 Create depth stencil state
+[18:8:33] Success: dxbase.cpp Ln 348 Create depth stencil view
+[18:8:33] Application resized to 1264x762
+
+
+[18:9:10] LOG START
+[18:9:10] Initialised 1280x800 window
+[18:9:10] Success: dxbase.cpp Ln 211 Create device and swap chain
+[18:9:10] Success: dxbase.cpp Ln 273 Get back buffer
+[18:9:10] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[18:9:10] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[18:9:10] Success: dxbase.cpp Ln 332 Create depth stencil state
+[18:9:10] Success: dxbase.cpp Ln 348 Create depth stencil view
+[18:9:10] Success: dxbase.cpp Ln 240 Create rasteriser state
+[18:9:10] Success: shader.cpp Ln 142 Compile vertex shader
+[18:9:10] Success: shader.cpp Ln 155 Compile pixel shader
+[18:9:10] Success: shader.cpp Ln 170 Create vertex shader
+[18:9:10] Success: shader.cpp Ln 176 Create pixel shader
+[18:9:10] Success: shader.cpp Ln 200 Create input layout
+[18:9:10] Success: shader.cpp Ln 213 Create matrix buffer
+[18:9:10] Success: shader.cpp Ln 233 Create sampler
+[18:9:10] Success: shader.cpp Ln 255 Compile vertex shader
+[18:9:10] Success: shader.cpp Ln 268 Compile pixel shader
+[18:9:10] Success: shader.cpp Ln 283 Create vertex shader
+[18:9:10] Success: shader.cpp Ln 289 Create pixel shader
+[18:9:10] Success: shader.cpp Ln 321 Create input layout
+[18:9:10] Success: shader.cpp Ln 334 Create matrix buffer
+[18:9:10] Success: shader.cpp Ln 354 Create sampler
+[18:9:10] Success: shader.cpp Ln 378 Compile vertex shader
+[18:9:10] Success: shader.cpp Ln 391 Compile pixel shader
+[18:9:10] Success: shader.cpp Ln 406 Create vertex shader
+[18:9:10] Success: shader.cpp Ln 412 Create pixel shader
+[18:9:10] Success: shader.cpp Ln 444 Create input layout
+[18:9:10] Success: shader.cpp Ln 457 Create matrix buffer
+[18:9:10] Success: shader.cpp Ln 470 Create light buffer
+[18:9:10] Success: shader.cpp Ln 490 Create sampler
+[18:9:10] Success: texture.cpp Ln 17 Create DDS texture from file
+[18:9:10] Success: model.cpp Ln 296 Initialise texture
+[18:9:10] Success: model.cpp Ln 65 Create vertex buffer
+[18:9:10] Success: model.cpp Ln 83 Create index buffer
+
+
+[18:10:21] LOG START
+[18:10:21] Initialised 1280x800 window
+[18:10:21] Success: dxbase.cpp Ln 211 Create device and swap chain
+[18:10:21] Success: dxbase.cpp Ln 273 Get back buffer
+[18:10:21] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[18:10:21] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[18:10:21] Success: dxbase.cpp Ln 332 Create depth stencil state
+[18:10:21] Success: dxbase.cpp Ln 348 Create depth stencil view
+[18:10:21] Success: dxbase.cpp Ln 240 Create rasteriser state
+[18:10:21] Success: shader.cpp Ln 142 Compile vertex shader
+[18:10:21] Success: shader.cpp Ln 155 Compile pixel shader
+[18:10:21] Success: shader.cpp Ln 170 Create vertex shader
+[18:10:21] Success: shader.cpp Ln 176 Create pixel shader
+[18:10:21] Success: shader.cpp Ln 200 Create input layout
+[18:10:21] Success: shader.cpp Ln 213 Create matrix buffer
+[18:10:21] Success: shader.cpp Ln 233 Create sampler
+[18:10:21] Success: shader.cpp Ln 255 Compile vertex shader
+[18:10:21] Success: shader.cpp Ln 268 Compile pixel shader
+[18:10:21] Success: shader.cpp Ln 283 Create vertex shader
+[18:10:21] Success: shader.cpp Ln 289 Create pixel shader
+[18:10:21] Success: shader.cpp Ln 321 Create input layout
+[18:10:21] Success: shader.cpp Ln 334 Create matrix buffer
+[18:10:21] Success: shader.cpp Ln 354 Create sampler
+[18:10:21] Success: shader.cpp Ln 378 Compile vertex shader
+[18:10:21] Success: shader.cpp Ln 391 Compile pixel shader
+[18:10:21] Success: shader.cpp Ln 406 Create vertex shader
+[18:10:21] Success: shader.cpp Ln 412 Create pixel shader
+[18:10:21] Success: shader.cpp Ln 444 Create input layout
+[18:10:21] Success: shader.cpp Ln 457 Create matrix buffer
+[18:10:21] Success: shader.cpp Ln 470 Create light buffer
+[18:10:21] Success: shader.cpp Ln 490 Create sampler
+[18:10:21] Success: texture.cpp Ln 17 Create DDS texture from file
+[18:10:21] Success: model.cpp Ln 296 Initialise texture
+[18:10:21] Success: model.cpp Ln 65 Create vertex buffer
+[18:10:21] Success: model.cpp Ln 83 Create index buffer
+[18:10:21] Success: dxbase.cpp Ln 382 Get fullscreen state
+[18:10:21] Success: dxbase.cpp Ln 402 Resize buffers
+[18:10:21] Success: dxbase.cpp Ln 273 Get back buffer
+[18:10:21] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[18:10:21] Failed: dxbase.cpp Ln 307 Create depth stencil buffer
+[18:10:21] Application resized to 0x0
+[18:10:21] Success: dxbase.cpp Ln 382 Get fullscreen state
+[18:10:21] Success: dxbase.cpp Ln 402 Resize buffers
+[18:10:21] Success: dxbase.cpp Ln 273 Get back buffer
+[18:10:21] Success: dxbase.cpp Ln 280 Create render target view (back buffer)
+[18:10:21] Success: dxbase.cpp Ln 307 Create depth stencil buffer
+[18:10:21] Success: dxbase.cpp Ln 332 Create depth stencil state
+[18:10:21] Success: dxbase.cpp Ln 348 Create depth stencil view
+[18:10:21] Application resized to 1264x762

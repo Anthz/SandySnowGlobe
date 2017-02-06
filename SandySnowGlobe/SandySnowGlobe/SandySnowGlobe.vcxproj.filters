@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Shaders">
+      <UniqueIdentifier>{ebf5fc18-9c1c-4944-bc4a-f3d7ffc9e4c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Models">
+      <UniqueIdentifier>{6be54bc0-8a0e-42dc-a92b-5bed8786dba3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures">
+      <UniqueIdentifier>{42a2d55e-695c-4548-b62e-3fbd0f6ef8e2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DXBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SnowGlobe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InputHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FPSCounter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CPUCounter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RAMCounter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cactus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SkyDome.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Season.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tinyxml2\tinyxml2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Fire.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SnowGlobe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DXBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InputHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FPSCounter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPUCounter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RAMCounter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cactus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectXMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SkyDome.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Season.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tinyxml2\tinyxml2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Fire.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shaders.hlsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DXUtil.inl">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="Colour.vs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="Colour.ps">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="Texture.ps">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="Texture.vs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="Lights.ps">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="Lights.vs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="Normal.vs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="Normal.ps">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="SkyCycle.ps">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="SkyCycle.vs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="Particle.ps">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="Particle.vs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="Fire.ps">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="Fire.vs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="fire.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="sand.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="sand_norm.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="sand_spec.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="ship_c.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="ship_n.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="ship_s.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="bump02.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="spec02.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="stone02.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="skyGradient.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="sky.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="skyMap.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="SkyMapSmooth.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="snowflake.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="raindrop.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="cactus.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="cactus_norm.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="blank_spec.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="flame.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

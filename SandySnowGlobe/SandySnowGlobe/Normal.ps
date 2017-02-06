@@ -1,0 +1,68 @@
+Texture2D textureID[3];
+SamplerState sampleState;
+
+cbuffer LightBuffer
+{
+	float4 sDiffuseColour;
+	float3 sLightDirection;
+	float sSpecularIntensity;
+	float4 sSpecularColour;
+	float4 mDiffuseColour;
+	float3 mLightDirection;
+	float mSpecularIntensity;
+	float4 mSpecularColour;
+};
+
+struct PixelInputType
+{
+	float4 position : SV_POSITION;
+	float2 texCoord : TEXCOORD0;
+	float3 normal : NORMAL;
+	float3 tangent : TANGENT;
+	float3 binormal : BINORMAL;
+	float3 viewDirection : TEXCOORD1;
+};
+
+float4 ps_main(PixelInputType input) : SV_TARGET
+{
+	float4 colour, colour1, colour2;
+	float4 specular, specular1, specular2;
+
+	specular1 = float4(0.0f, 0.0f, 0.0f, 0.0f);
+	specular2 = float4(0.0f, 0.0f, 0.0f, 0.0f);
+
+	float4 texColour = textureID[0].Sample(sampleState, input.texCoord);
+	float4 bumpMap = textureID[1].Sample(sampleState, input.texCoord);
+	bumpMap = (bumpMap * 2.0f) - 1.0f;
+	float3 bumpNormal = normalize(input.normal + bumpMap.x * input.tangent + bumpMap.y * input.binormal);
+	float4 specMap = textureID[2].Sample(sampleState, input.texCoord);
+
+	float3 lightDir = -sLightDirection;
+	float intensity = saturate(dot(bumpNormal, lightDir));
+	colour1 = saturate(sDiffuseColour * intensity);
+	
+	if(intensity > 0.0f)
+	{
+		float3 reflection = normalize(2 * intensity * bumpNormal - lightDir);
+		specular1 = pow(saturate(dot(reflection, input.viewDirection)), sSpecularIntensity);
+		specular1 *= specMap;
+		specular1 *= sSpecularColour;
+	}
+
+	float3 lightDir2 = -mLightDirection;
+	float intensity2 = saturate(dot(bumpNormal, lightDir2));
+	colour2 = saturate(mDiffuseColour * intensity2);
+	
+	if(intensity > 0.0f)
+	{
+		float3 reflection = normalize(2 * intensity2 * bumpNormal - lightDir2);
+		specular2 = pow(saturate(dot(reflection, input.viewDirection)), mSpecularIntensity);
+		specular2 *= specMap;
+		specular2 *= mSpecularColour;
+	}
+
+	colour = saturate((colour1 + colour2) + (specular1 + specular2));
+	colour *= texColour;
+
+	return colour;
+}

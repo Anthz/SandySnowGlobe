@@ -1,0 +1,37 @@
+Texture2D textureID[2];
+SamplerState sampleState;
+
+cbuffer TimeBuffer
+{
+	float3 time;
+	float padding;
+};
+
+struct PixelInputType
+{
+	float4 position : SV_POSITION;
+	float2 texCoord : TEXCOORD0;
+	float3 normal : NORMAL;
+	float4 domePosition : TEXCOORD1;
+};
+
+float4 ps_main(PixelInputType input) : SV_TARGET
+{
+	float4 colour1, colour2, finalColour;
+	float2 newUV;
+	
+	newUV.y = -input.domePosition.y / 105.0f;	//105.0f = dome height
+
+	newUV.x = time.y - 0.03125f;
+	
+	colour1 = textureID[1].Sample(sampleState, newUV);
+	
+	newUV.x = time.y;
+	
+	colour2 = textureID[1].Sample(sampleState, newUV);
+
+	finalColour = lerp(colour1, colour2, time.z);
+	finalColour.w = 0.5f;
+
+	return finalColour;
+}

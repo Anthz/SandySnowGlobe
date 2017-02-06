@@ -1,0 +1,27 @@
+Texture2D textureID;
+SamplerState sampleState;
+
+struct PixelInputType
+{
+	float4 position : SV_POSITION;
+	float2 texCoord : TEXCOORD0;
+	float4 colour : COLOR;
+};
+
+float4 ps_main(PixelInputType input) : SV_TARGET
+{
+	float4 black = float4(0.0f, 0.0f, 0.0f, 1.0f);
+	float4 colour = textureID.Sample(sampleState, input.texCoord);
+
+	if(any(black.rgb + colour.rgb))
+	{
+		colour = colour * input.colour;
+		colour.w = 0.5f;
+	}
+	else
+	{
+		colour.w = 0.0f;
+	}
+
+	return colour;
+}

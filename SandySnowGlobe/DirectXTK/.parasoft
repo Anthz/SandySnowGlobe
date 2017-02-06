@@ -1,0 +1,32 @@
+#Mon Jan 05 16:15:37 GMT+00:00 2015
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.advanced.options=
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.cdt.configuration=CPPTEST_USE_ACTIVE_CONFIG
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.c.win32.x86=cl.exe
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.cpp.win32.x86=cl.exe
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.compiler.family.win32.x86=vc_12_0
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.compiler.options.win32.x86=${cpptest\:original_options} -DPARASOFT_CPPTEST -I.
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.connected.6x.projects=
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.dependency.files.paths=${project_loc}/Makefile
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.dsp.env.var.mode=ENV_PATCH_PREPEND_MODE
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.edg.multibyte.chars.is.source.handling=AUTO
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.evc.env.var.mode=ENV_PATCH_PREPEND_MODE
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.extractor.id=vs71_extractor_id
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.linker.command.win32.x86=link.exe
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.linker.options.win32.x86=${cpptest\:original_options} ${cpptest\:project_lib_files}
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.make.command.line=make -i -B CXX\=${CPPTEST_SCAN} CC\=${CPPTEST_SCAN} LD\=${CPPTEST_SCAN}
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.make.scan.hash.code.validation=true
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.make.working.dir=${project_loc}
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.make_always_build=false
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.ode_auto_scan_mode=on_changes
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.ode_delete_bdf_postaction=false
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.ode_incremental_build=false
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.ode_options_dir=${project_loc}/cpptestscan.bdf
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.preference.store.version=1.1
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.run_orig_cmd_for_parallel_proj_bdf=true
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.runtime.location=${cpptest\:engine_loc}/runtime
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.synchronize_with_project_settings=true
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.test.case.location.patterns=*
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.test.ware.location=${workspace_loc}/.cpptest/${project_name}
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.vc71.configuration=CPPTEST_USE_ACTIVE_CONFIG
+SandySnowGlobe/DirectXTK_Desktop_2013//com.parasoft.xtest.checkers.api.cpp.options.working.dir=${project_loc}
+project.path.e0b52ae7-e160-4d32-bf3f-910b785e5a8e=SandySnowGlobe/DirectXTK_Desktop_2013
