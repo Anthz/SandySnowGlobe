@@ -110,7 +110,7 @@ void SkyDome::Update(float dt)
 		}
 	}
 
-	if(currentTime.y >= 1.0f)
+	if(currentTime.y > 1.0f)
 	{
 		currentTime.y = 0.0f;
 	}
@@ -121,7 +121,8 @@ void SkyDome::Update(float dt)
 	}
 	else
 	{
-		currentTime.z = currentTime.x / currentTime.y;
+		//% for lerp
+		currentTime.z = (currentTime.x - ((int)(currentTime.x / 0.03125f) * 0.03125)) / (currentTime.y - ((int)(currentTime.x / 0.03125f) * 0.03125));
 	}
 }
 
